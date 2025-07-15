@@ -1,5 +1,4 @@
-# Hi there 👋 
-## I'm Mufaddal Diwan
+## Hi there 👋 I'm Mufaddal Diwan
 
 I'm a computer science student with a passion for both **technology** and **hands-on work**. I'm currently working part-time while preparing to transfer to Rutgers to complete my bachelor's degree in CS.
 
