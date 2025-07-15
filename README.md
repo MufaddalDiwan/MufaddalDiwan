@@ -3,7 +3,7 @@
 I'm a computer science student with a passion for both **technology** and **hands-on work**. I'm currently working part-time while preparing to transfer to Rutgers to complete my bachelor's degree in CS.
 
 ## 💡 What I'm Into
-- 💻 Learning and building with **AI**, **Software**, and **web technologies**
+- 💻 Learning and building with **AI**, **Software**, and **Web technologies**
 
 ## 🚀 What I'm Working On
 - Building out my **GitHub portfolio** with real-world problem solvers
