@@ -17,4 +17,4 @@ I'm a computer science student with a passion for both **technology** and **hand
 I'm still learning, but always down to collaborate, share feedback, or just talk
 
 - 🌐 [LinkedIn](www.linkedin.com/in/mufaddal-diwan) 
-- 🧑‍💻 GitHub: [@mufaddaldiwan](https://github.com/mufaddaldiwan)
+- 🧑‍💻 GitHub: [@MufaddalDiwan](https://github.com/MufaddalDiwan)
