@@ -6,8 +6,8 @@ I'm a computer science student with a passion for both **technology** and **hand
 - 💻 Learning and building with **AI**, **Software**, and **web technologies**
 
 ## 🚀 What I'm Working On
-- Building out my **GitHub portfolio** with beginner-friendly tools and real-world problem solvers
-- Improving my **coding skills** and learning Git for version control
+- Building out my **GitHub portfolio** with real-world problem solvers
+- Improving my **coding skills** and learning Git version control
 
 ## 🎯 Goals
 - Break into tech through practical experience, not just theory
