@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# Hi there 👋 
 # I'm Mufaddal Diwan
 
 I'm a computer science student with a passion for both **technology** and **hands-on work**. I'm currently working part-time while preparing to transfer to Rutgers to complete my bachelor's degree in CS.
@@ -16,7 +15,7 @@ I'm a computer science student with a passion for both **technology** and **hand
 - Combine my CS degree with real-world problem solving
 
 ## 📫 Let's Connect
-I'm still learning, but always down to collaborate, share feedback, or just chat about code, life, or goals.
+I'm still learning, but always down to collaborate, share feedback, or just talk
 
 - 🌐 [LinkedIn](www.linkedin.com/in/mufaddal-diwan) 
 - 🧑‍💻 GitHub: [@mufaddaldiwan](https://github.com/mufaddaldiwan)
